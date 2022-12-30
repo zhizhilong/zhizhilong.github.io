@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkzzl"]=self["webpackChunkzzl"]||[]).push([[443],{381:function(n,u,t){t.r(u),t.d(u,{default:function(){return f}});var a=t(252);const e={class:"about"},r=(0,a._)("h1",null,"This is an about page",-1),s=[r];function c(n,u){return(0,a.wg)(),(0,a.iD)("div",e,s)}var i=t(744);const l={},o=(0,i.Z)(l,[["render",c]]);var f=o}}]);
