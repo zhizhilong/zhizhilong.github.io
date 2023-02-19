@@ -65,6 +65,12 @@ header {
     color: #fff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, .2);
 }
+.small-text {
+    position: absolute;
+    font-size: 1em;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, .2);
+}
 
 .parallax img {
     position: absolute;
